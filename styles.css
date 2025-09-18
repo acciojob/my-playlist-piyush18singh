@@ -38,7 +38,16 @@ a {
 }
 
 /* Common styling for media player boxes */
-.player_one,
+.player_one{
+	 background-color: rgb(255, 255, 255);
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid black;
+  width: 90%; /* Make it wide like in the screenshot */
+  margin: 20px auto; /* center it */
+  box-sizing: border-box; 
+	
+}
 .player_two {
   background-color: rgb(255, 255, 255);
   padding: 15px;
