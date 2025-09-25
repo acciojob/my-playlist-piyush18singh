@@ -38,7 +38,7 @@ a {
 }
 
 /* Common styling for media player boxes */
-.Playerone-box{
+.player_one{
 	 
   width: 80%;              /* or any fixed width like 600px */
   margin: 20px auto;       /* auto left/right centers it */
